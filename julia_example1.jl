@@ -5,7 +5,7 @@ Description:   Kenometrics julia sheet to introduce the basic Quandl API
 =#
 
 # If you have not already done so, import the Package manager package 'Pkg'
-# and use this to import the 'HTTP' and 'CSV' package.
+# and use this to install the 'HTTP' and 'CSV' package.
 # import Pkg
 # Pkg.add("HTTP")
 # Pkg.add("CSV")
